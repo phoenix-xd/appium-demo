@@ -3,13 +3,13 @@
 <suite name="Failed suite [Surefire suite]" verbose="0">
   <test thread-count="5" name="Surefire test(failed)" verbose="0">
     <classes>
-      <class name="com.appium.demo.InstallAndLaunchTest">
+      <class name="com.appium.demo.ScrollTest">
         <methods>
-          <include name="verifyAppInstalledAndLaunched"/>
-          <include name="setup"/>
+          <include name="verifyScrollAndAddToCart"/>
           <include name="tearDown"/>
+          <include name="setup"/>
         </methods>
-      </class> <!-- com.appium.demo.InstallAndLaunchTest -->
+      </class> <!-- com.appium.demo.ScrollTest -->
     </classes>
   </test> <!-- Surefire test(failed) -->
 </suite> <!-- Failed suite [Surefire suite] -->

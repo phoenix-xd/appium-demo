@@ -1,3 +1,6 @@
 /Users/sarthakbansal/appium-demo/src/test/java/com/appium/demo/CalculatorTest.java
 /Users/sarthakbansal/appium-demo/src/test/java/com/appium/demo/FirstTest.java
 /Users/sarthakbansal/appium-demo/src/test/java/com/appium/demo/InstallAndLaunchTest.java
+/Users/sarthakbansal/appium-demo/src/test/java/com/appium/demo/LoginTest.java
+/Users/sarthakbansal/appium-demo/src/test/java/com/appium/demo/ScrollTest.java
+/Users/sarthakbansal/appium-demo/src/test/java/com/appium/demo/base/BaseTest.java

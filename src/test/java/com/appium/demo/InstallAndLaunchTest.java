@@ -20,7 +20,7 @@ public class InstallAndLaunchTest {
 
         String apkPath =
                 System.getProperty("user.dir")
-                        + "/apps/TheApp.apk";
+                        + "/apps/Test_Login.apk";
 
         UiAutomator2Options options =
                 new UiAutomator2Options();
