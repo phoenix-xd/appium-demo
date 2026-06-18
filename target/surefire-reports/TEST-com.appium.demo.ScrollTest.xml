@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="com.appium.demo.ScrollTest" time="20.131" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="com.appium.demo.ScrollTest" time="13.166" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="26"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -13,7 +13,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="/opt/homebrew/Cellar/openjdk/26.0.1/libexec/openjdk.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/sarthakbansal/appium-demo/target/surefire/surefirebooter-20260616114314890_3.jar /Users/sarthakbansal/appium-demo/target/surefire 2026-06-16T11-43-14_850-jvmRun1 surefire-20260616114314890_1tmp surefire_0-20260616114314890_2tmp"/>
+    <property name="sun.java.command" value="/Users/sarthakbansal/appium-demo/target/surefire/surefirebooter-20260617111057156_3.jar /Users/sarthakbansal/appium-demo/target/surefire 2026-06-17T11-10-57_114-jvmRun1 surefire-20260617111057156_1tmp surefire_0-20260617111057156_2tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="test" value="ScrollTest.java"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/sarthakbansal/appium-demo/target/surefire/surefirebooter-20260616114314890_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/sarthakbansal/appium-demo/target/surefire/surefirebooter-20260617111057156_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="26.0.1"/>
@@ -61,7 +61,7 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="70.0"/>
   </properties>
-  <testcase name="verifyScroll" classname="com.appium.demo.ScrollTest" time="12.126">
+  <testcase name="verifyScroll" classname="com.appium.demo.ScrollTest" time="1.809">
     <system-out><![CDATA[Scrolled successfully to: Sauce Labs Fleece Jacket
 ]]></system-out>
     <system-err><![CDATA[SLF4J(W): No SLF4J providers were found.
